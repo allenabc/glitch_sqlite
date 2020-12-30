@@ -1,7 +1,7 @@
 // client-side js
 // run by the browser each time your view template referencing it is loaded
 
-console.log("googbye world :o"); 
+console.log("xxx googbye world :o"); 
 
 const dreams = [];
 
